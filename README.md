@@ -3,6 +3,8 @@
 The purpose of this project is to get the understanding of Blazor and the functionality of it with different tabs and inputs. 
 
 ## Sources Used
+Professor Vanselow's Website: https://sites.google.com/site/profvanselow/programming/languages/c_1/blazor
+
 Make a project on your computer that runs with .NET: https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro
 
 Make a project on GitHub that runs with Azur: https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
